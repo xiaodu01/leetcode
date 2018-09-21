@@ -3,4 +3,4 @@
 
 | #    | Title                                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ---------- |
-| 1    | [TwoSum](https://github.com/xiaodu01/leetcode/blob/master/src/easy/TwoSum.java) | Easy       |
+| 1    | [TwoSum](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/TwoSum.java) | Easy       |
