@@ -1,6 +1,7 @@
 # LeetCode
 ### Solution in Java
 
-| #    | Title                                                        | Difficulty |
-| ---- | ------------------------------------------------------------ | ---------- |
-| 1    | [TwoSum](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/TwoSum.java) | Easy       |
+| #      | Title                                                        | Difficulty |
+| ------ | ------------------------------------------------------------ | ---------- |
+| 1      | [TwoSum](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/TwoSum.java) | Easy       |
+| 104    | [Maximum Depth of Binary Tree](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/MaxDepth.java) | Easy       |
