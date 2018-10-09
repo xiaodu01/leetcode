@@ -1,5 +1,3 @@
-import com.sun.scenario.effect.Merge;
-
 public class MergeSortedArray {
 
     /**
