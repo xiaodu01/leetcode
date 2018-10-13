@@ -4,6 +4,7 @@
 | #      | Title                                                        | Difficulty |
 | ------ | ------------------------------------------------------------ | ---------- |
 | 1      | [Two Sum](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/TwoSum.java) | Easy       |
+| 70     | [Climbing Stairs](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/ClimbingStairs.java) | Easy       |
 | 88     | [Merge Sorted Array](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/MergeSortedArray.java) | Easy       |
 | 98     | [Validate Binary Search Tree](https://github.com/xiaodu01/leetcode/blob/master/src/java/medium/ValidateBinarySearchTree.java) | Medium       |
 | 101    | [Symmetric Tree](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/SymmetricTree.java) | Easy       |
