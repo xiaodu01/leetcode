@@ -12,5 +12,6 @@
 | 102    | [Binary Tree Level Order Traversal](https://github.com/xiaodu01/leetcode/blob/master/src/java/medium/BinaryTreeLevelOrderTraversal.java) | Medium       |
 | 104    | [Maximum Depth of Binary Tree](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/MaxDepth.java) | Easy       |
 | 108    | [Convert Sorted Array to Binary Search Tree](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/ConvertSortedArrayToBST.java) | Easy       |
-|121     |[Best Time to Buy and Sell Stock](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/BestTimeToBuyAndSellStock.java)| Easy|
+| 198    |[House Robber](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/HouseRobber.java)|Easy|
+| 121    |[Best Time to Buy and Sell Stock](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/BestTimeToBuyAndSellStock.java)| Easy|
 | 278    | [First Bad Version](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/FirstBadVersion.java) | Easy       |
