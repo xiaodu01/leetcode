@@ -16,4 +16,5 @@
 | 198    |[House Robber](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/HouseRobber.java)|Easy|
 | 204    |[Count Primes](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/CountPrimes.java)|Easy|
 | 278    | [First Bad Version](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/FirstBadVersion.java) | Easy       |
+| 326    | [Power of Three](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/PowerOfThree.java) | Easy       |
 | 412    | [Fizz Buzz](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/FizzBuzz.java) | Easy       |
