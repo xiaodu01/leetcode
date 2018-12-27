@@ -15,3 +15,4 @@
 | 198    |[House Robber](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/HouseRobber.java)|Easy|
 | 121    |[Best Time to Buy and Sell Stock](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/BestTimeToBuyAndSellStock.java)| Easy|
 | 278    | [First Bad Version](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/FirstBadVersion.java) | Easy       |
+| 412    | [Fizz Buzz](https://github.com/xiaodu01/leetcode/blob/master/src/java/easy/FizzBuzz.java) | Easy       |
